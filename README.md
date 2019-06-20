@@ -11,10 +11,6 @@ And now you can execute the game using the command :
 # TicTacToe
 An Optimal Tic-Tac-Toe AI program
 This project was made as an academic project during the second year of the college.
-
-## Grapical interface
-
-As mentioned before we made it using openGL
  
 ## Running the game
 It is important to run a program to check all possible moves which requires Pre requisite Knowledge of the game of TicTacToe.
