@@ -9,7 +9,7 @@ And now you can execute the game using the command :
 ```./a.out```
 
 # TicTacToe
-An Optimal Tic-Tac-Toe AI program
+An Optimal Tic-Tac-Toe AI program.
 This project was made as an academic project during the second year of the college.
  
 ## Running the game
